@@ -1,38 +1,38 @@
-# Visualizador de Perfil do GitHub
+# GitHub Profile Viewer
 
-Um simples visualizador de perfis do GitHub construído com HTML, CSS e JavaScript, como parte do curso DevQuest 2.0.
+A simple GitHub profile viewer built with HTML, CSS and JavaScript as part of the DevQuest 2.0 course.
 
-## 📖 Sobre
+## 📖 About
 
-Esta aplicação permite que você insira um nome de usuário do GitHub e veja as informações do perfil, incluindo avatar, nome, biografia e uma lista dos 10 repositórios mais recentes.
+This application allows you to enter a GitHub username and view profile information, including avatar, name, bio and a list of the 10 most recent repositories.
 
-## ✨ Funcionalidades
+## ✨ Features
 
--   **Busca de Perfil:** Encontre qualquer usuário do GitHub.
--   **Informações do Perfil:** Exibe o avatar, nome e biografia do usuário.
--   **Repositórios Recentes:** Lista os 10 últimos repositórios criados pelo usuário, com links diretos.
--   **Estado de Carregamento:** Fornece feedback visual enquanto os dados estão sendo buscados na API.
--   **Design Responsivo:** Adaptável a diferentes tamanhos de tela.
+-   **Profile Search:** Find any GitHub user.
+-   **Profile Information:** Displays the user's avatar, name and bio.
+-   **Recent Repositories:** Lists the user's 10 most recent repositories with direct links.
+-   **Loading State:** Provides visual feedback while data is being fetched from the API.
+-   **Responsive Design:** Adaptable to different screen sizes.
 
-## 💻 Tecnologias Utilizadas
+## 💻 Technologies Used
 
 -   HTML5
 -   CSS3
 -   JavaScript (ES6 Modules)
--   [GitHub API](https://docs.github.com/en/rest) para busca de dados.
+-   [GitHub API](https://docs.github.com/en/rest) for data fetching.
 
-## 🚀 Como Usar
+## 🚀 How to Use
 
-1.  **Clone o repositório:**
+1.  **Clone the repository:**
     ```bash
-    git clone <URL-do-seu-repositorio>
+    git clone <your-repository-url>
     ```
-2.  **Navegue até o diretório do projeto:**
+2.  **Navigate to the project directory:**
     ```bash
-    cd visualizador-perfil-github
+    cd github-profile-viewer
     ```
-3.  **Abra no navegador:**
-    Abra o arquivo `index.html` diretamente no seu navegador de preferência para usar a aplicação.
+3.  **Open in browser:**
+    Open the `index.html` file directly in your preferred browser to use the application.
 
 ---
-*Projeto desenvolvido como parte do curso DevQuest 2.0.*
+*Project developed as part of the DevQuest 2.0 course.*
